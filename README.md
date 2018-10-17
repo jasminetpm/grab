@@ -5,6 +5,7 @@ Product Analytics Internship in Grab
 In the summer of 2018, I interned in Grab, Southeast Asia's leading ride-hailing app. Working in the Product Analytics Department, I delved into passenger and driver data from the months of May and June-- creating data visualizations for two projects: 
 1. Book-Through Rate of Grab Trips vs Public Transport
 2. Mispriced Trips
+
 Then, I carried out analyses based these data visualizations, which subsequently led to solutions proposed to improve current problems faced by Grab.
 
 ## Book-Through Rate of Grab Trips vs Public Transport
